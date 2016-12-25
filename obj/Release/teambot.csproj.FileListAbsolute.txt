@@ -1,0 +1,39 @@
+E:\teambot\bin\Bot Application1.dll.config
+E:\teambot\bin\Bot Application1.dll
+E:\teambot\bin\Bot Application1.pdb
+E:\teambot\bin\Autofac.dll
+E:\teambot\bin\Chronic.dll
+E:\teambot\bin\Microsoft.Bot.Builder.dll
+E:\teambot\bin\Microsoft.Bot.Connector.dll
+E:\teambot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\teambot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\teambot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\teambot\bin\Newtonsoft.Json.dll
+E:\teambot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\teambot\bin\System.Net.Http.Formatting.dll
+E:\teambot\bin\System.Web.Http.dll
+E:\teambot\bin\System.Web.Http.WebHost.dll
+E:\teambot\bin\Autofac.xml
+E:\teambot\bin\Microsoft.Bot.Builder.xml
+E:\teambot\bin\Microsoft.Bot.Connector.xml
+E:\teambot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\teambot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\teambot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\teambot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\teambot\bin\Newtonsoft.Json.xml
+E:\teambot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\teambot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\teambot\bin\System.Net.Http.Formatting.xml
+E:\teambot\bin\System.Web.Http.xml
+E:\teambot\bin\System.Web.Http.WebHost.xml
+E:\teambot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\teambot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\teambot\obj\Release\teambot.csprojResolveAssemblyReference.cache
+E:\teambot\obj\Release\Bot Application1.dll
+E:\teambot\obj\Release\Bot Application1.pdb
